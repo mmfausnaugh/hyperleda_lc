@@ -1,0 +1,4 @@
+outs:
+- md5: 19e0bd666c47bdc112fadbcf4f393ae7
+  size: 268187177
+  path: s3_hyperleda_cam1_ccd12.tgz

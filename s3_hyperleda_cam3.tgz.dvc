@@ -1,0 +1,4 @@
+outs:
+- md5: d18a128a93edd72baca79b0fb74112b7
+  size: 792479310
+  path: s3_hyperleda_cam3.tgz
